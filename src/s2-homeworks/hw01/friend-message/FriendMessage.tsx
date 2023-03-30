@@ -37,7 +37,7 @@ const FriendMessage = (props: FriendMessagePropsType) => {
                         className={s.friendMessageText}
                     >
                         {/*создаёт студент*/}
-                        'some new text'
+
                         {/**/}
                     </pre>
                 </div>
